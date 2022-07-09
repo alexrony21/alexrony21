@@ -6,7 +6,7 @@ Python Lover
 - 📫 How to reach me ...
 if you wanna contact me you can contact me via facebook and Telegram 
 
-Facebook : https://web.facebook.com/alexrony85/
+
 Telegram : @alexrony21
 <!---
 alexrony21/alexrony21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
